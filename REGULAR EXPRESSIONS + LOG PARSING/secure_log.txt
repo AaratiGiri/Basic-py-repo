@@ -1,0 +1,5 @@
+Jun 29 10:01:23 server sshd[3001]: Failed password for baduser1 from 192.168.1.25 port 22 
+ssh2
+Jun 29 10:02:45 server sshd[3002]: Accepted password for admin from 10.0.0.1 port 22 ssh2
+Jun 29 10:04:01 server sshd[3003]: Failed password for baduser2 from 172.16.5.12 port 22 
+ssh2
